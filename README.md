@@ -1,4 +1,4 @@
-# My ML Project - checking
+# My ML Project - check
 
 This project demonstrates a basic ML workflow using Python, with unit tests and GitHub Actions integration.
 
